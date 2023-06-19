@@ -20,24 +20,17 @@ namespace GuruDert
 
         private void cbx_servico_SelectedIndexChanged(object sender, EventArgs e)
         {
-            double servico = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite uma opcao: ");
 
-            string formatacao;
-            string limpeza;
-            string trocapeca;
+            Console.WriteLine("1 - formatação ");
+            Console.WriteLine("2 - Limpeza");
+            Console.WriteLine("3 - Troca de peça");
 
-            if(servico == formatacao)
-            {
-                 = "Formatação";
+            int opcao = Convert.ToInt32(Console.ReadLine());
 
-            }
-            else if(servico >= 50)
+            if(opcao == 1)
             {
-                limpeza = "Limpeza";
-            }
-            else
-            {
-                trocapeca = "Troca de Peça";
+                Console.WriteLine();
             }
             
 
@@ -46,11 +39,11 @@ namespace GuruDert
         private void bt_salvar_Click(object sender, EventArgs e)
         {
 
-            double formapagam = Convert.ToDouble(Console.ReadLine());
+          /*  double formapagam = Convert.ToDouble(Console.ReadLine());
 
-            string dinheiro;
-            string pix;
-            string cartao;
+            string dinheiro = "";
+            string pix = "";
+            string cartao = "";
 
 
             if(formapagam == )
@@ -58,11 +51,20 @@ namespace GuruDert
                 dinehiro = 0.20;
             }
             else if(formapagam >= )
+            {
+
+            } */
 
 
         }
 
         private void cbx_pagamento_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            bt_salvar.Enabled = true;
+
+        }
+
+        private void bt_cancelar_Click(object sender, EventArgs e)
         {
 
         }

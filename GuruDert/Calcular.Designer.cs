@@ -109,6 +109,7 @@
             this.bt_cancelar.TabIndex = 8;
             this.bt_cancelar.Text = "Calcelar";
             this.bt_cancelar.UseVisualStyleBackColor = true;
+            this.bt_cancelar.Click += new System.EventHandler(this.bt_cancelar_Click);
             // 
             // cbx_servico
             // 
