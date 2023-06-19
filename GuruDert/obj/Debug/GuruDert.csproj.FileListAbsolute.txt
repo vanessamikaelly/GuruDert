@@ -1,0 +1,12 @@
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\bin\Debug\GuruDert.exe.config
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\bin\Debug\GuruDert.exe
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\bin\Debug\GuruDert.pdb
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.csproj.AssemblyReference.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.Properties.Resources.resources
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.csproj.GenerateResource.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.exe
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.pdb
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.Calcular.resources
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\GuruDert\GuruDert\obj\Debug\GuruDert.Menu.resources
