@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
 using System.Windows.Forms;
 
 namespace GuruDert
@@ -19,34 +20,50 @@ namespace GuruDert
 
         private void cbx_servico_SelectedIndexChanged(object sender, EventArgs e)
         {
+            double servico = Convert.ToDouble(Console.ReadLine());
 
-            int formatacao = Convert.ToInt32(Console.ReadLine());
-            int limpeza = Convert.ToInt32(Console.ReadLine());
-            int trocadepeca = Convert.ToInt32(Console.ReadLine());
+            string formatacao;
+            string limpeza;
+            string trocapeca;
 
-            if(formatacao == 100)
+            if(servico == formatacao)
             {
-                Console.WriteLine("100");
+                 = "Formatação";
 
             }
-            if(limpeza == 50)
+            else if(servico >= 50)
             {
-                Console.WriteLine("50");
-
+                limpeza = "Limpeza";
             }
             else
             {
-                Console.WriteLine("200");
+                trocapeca = "Troca de Peça";
             }
+            
 
         }
-
-
-
 
         private void bt_salvar_Click(object sender, EventArgs e)
         {
 
+            double formapagam = Convert.ToDouble(Console.ReadLine());
+
+            string dinheiro;
+            string pix;
+            string cartao;
+
+
+            if(formapagam == )
+            {
+                dinehiro = 0.20;
+            }
+            else if(formapagam >= )
+
+
+        }
+
+        private void cbx_pagamento_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
     }
